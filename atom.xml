@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://znsfox.github.io</id>
     <title>Gridea</title>
-    <updated>2022-03-13T09:28:11.996Z</updated>
+    <updated>2022-03-14T09:38:36.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://znsfox.github.io"/>
     <link rel="self" href="https://znsfox.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://znsfox.github.io/images/avatar.png</logo>
     <icon>https://znsfox.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[spring中的一些注解]]></title>
+        <id>https://znsfox.github.io/post/spring-zhong-de-yi-xie-zhu-jie/</id>
+        <link href="https://znsfox.github.io/post/spring-zhong-de-yi-xie-zhu-jie/">
+        </link>
+        <updated>2022-03-14T09:19:38.000Z</updated>
+        <content type="html"><![CDATA[<p><code>@Repository</code> 注解便属于最先引入的一批，它用于将数据访问层 (DAO 层 ) 的类标识为 Spring Bean。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://znsfox.github.io/post/hello-gridea/</id>
